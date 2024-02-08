@@ -43,6 +43,10 @@
 
 ###
 
+<h2 align="left">Count visitor</h2>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/DimzsArdiminda/count.svg?"  />
 </div>
