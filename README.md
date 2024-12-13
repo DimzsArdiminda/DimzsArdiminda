@@ -1,7 +1,4 @@
 
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
@@ -57,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DimzsArdiminda/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/github_user_name/DimzsArdiminda/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
