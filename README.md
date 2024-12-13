@@ -54,8 +54,7 @@
 
 ###
 
-![snake animation](https://github.com/DimzsArdiminda/DimzsArdiminda/blob/output/github-contribution-grid-snake2.svg)
-
+![Snake animation](https://raw.githubusercontent.com/DimzsArdiminda/DimzsArdiminda/output/github-contribution-grid-snake-dark.svg)
 ###
 
 <h2 align="left">I'm work with : </h2>
