@@ -54,7 +54,7 @@
 
 ###
 
-![snake animation](https://github.com/github_user_name/DimzsArdiminda/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/DimzsArdiminda/DimzsArdiminda/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
