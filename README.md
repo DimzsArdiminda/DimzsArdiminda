@@ -1,5 +1,9 @@
 
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
 <h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
 
