@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Dimas and I'm a Student, from State University Of Malang</p>
+<p align="left">Hi, I'm Dimas Ardiminda. Nice to meet you</p>
 
 ###
 
